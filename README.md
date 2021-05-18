@@ -1,4 +1,3 @@
-# 
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -62,7 +61,7 @@
                         <h2 class="text-white mt-0">FireFox</h2>
                         <hr class="divider light my-4" />
                         <p class="text-white-50 mb-4">how to play firefox?</p>
-                        <span style="color:rgb(255, 255, 255);">
+                        <span style="color:rgb(0, 0, 0);">
                         <p>火狐<br>
                             （持續輸出/爆發）輸出型坦克<br>
                             輸出位置：中遠</p><br>
@@ -109,7 +108,7 @@
                         <h2 class="text-white mt-0">Arthur</h2>
                         <hr class="divider light my-4" />
                         <p class="text-white-50 mb-4">how to play arthur?</p>
-                    <span style="color:rgb(255, 255, 255);">
+                    <span style="color:rgb(0, 0, 0);">
                         <p>亞瑟<br>
                             (控制/爆發)位移型刺客<br>
                             輸出位置:中距離<br>
@@ -160,7 +159,7 @@
                     <div class="col-lg-8 text-center">
                         <h2 class="text-white mt-0">Doomlight</h2>
                         <hr class="divider light my-4" />
-                        <span style="color:rgb(255, 255, 255);">
+                        <span style="color:rgb(0, 0, 0);">
                         <p>厄運光束(支援/輸出)輔助型坦克<br>
                             輸出位置：中遠距离輸出</p><br>
                             <p>厄運光束優勢特性：高傷害、具防禦能力、光塔干擾</p><br>
@@ -248,7 +247,7 @@
                         <h2 class="text-white mt-0">Raven</h2>
                         <hr class="divider light my-4" />
                         <p class="text-white-50 mb-4">how to play raven?</p>
-                        <span style="color:rgb(255, 255, 255);">
+                        <span style="color:rgb(0, 0, 0);">
                         <p>渡鴉<br>
                             (游擊/爆發)爆發型刺客</p><br>
                             <p>輸出位置：中遠</p><br>
@@ -289,7 +288,7 @@
                         <h2 class="text-white mt-0">Andromeda</h2>
                         <hr class="divider light my-4" />
                         <p class="text-white-50 mb-4">how to play andromeda?</p>
-                        <span style="color:rgb(255, 255, 255);">
+                        <span style="color:rgb(0, 0, 0);">
                         <p>仙女座<br>
                             (控制 /制空)控制型刺客</p><br>
                             <p>仙女座<br>
@@ -388,7 +387,7 @@
                     <div class="col-lg-8 text-center">
                         <h2 class="text-white mt-0">MORE</h2>
                         <hr class="divider light my-4" />
-                        <span style="color:rgb(255, 255, 255);">
+                        <span style="color:rgb(0, 0, 0);">
                             如果您有任何疑問和建議<br>
                             歡迎將相關問題寄送給我們<br>
                             我們盡可能會快速回復您的問題<br>
